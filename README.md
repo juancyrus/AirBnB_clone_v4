@@ -158,7 +158,13 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+Agbadi Noah Kekeli - [Github](https://github.com/juancyrus) / [Twitter](https://twitter.com/_agbadinoah)
 
 Second part of Airbnb: Joann Vuong
 ## License
+
+
+
+## Addition 
+Making the console better fixing all issues and adding more features for stability
 Public Domain. No copy write protection. 
